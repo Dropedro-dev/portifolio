@@ -1,8 +1,10 @@
-import Header from "@/components/header";
+import HeaderSection from "@/components/headerSection";
+import Intro from "@/components/intro";
 const Page =()=> {
   return (
     <main>
-      <Header></Header>
+      <HeaderSection />
+      <Intro />
     </main>
   )
 }
