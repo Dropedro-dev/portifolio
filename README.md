@@ -16,21 +16,20 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Primary Color:
+Dark Slate Gray: #2F4F4F
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Secondary Colors:
+Gunmetal: #2A3439
+Charcoal: #36454F
 
-## Learn More
+Accent Colors:
+Electric Blue: #0077FF (Para destaques e links)
+Teal: #008080 (Para botões e ícones)
 
-To learn more about Next.js, take a look at the following resources:
+Background Color:
+Jet: #333333
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Text Colors:
+Ghost White: #F8F8FF (Para textos principais)
+Light Gray: #D3D3D3 (Para textos secundários)
