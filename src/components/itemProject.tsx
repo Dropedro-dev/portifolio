@@ -1,6 +1,6 @@
 const ItemProject = () => {
     return(
-        <div className="w-32 h-48 bg-black border border-black">
+        <div className="w-60 h-36 border border-black md:border-red-600">
             asd
         </div>
     )
