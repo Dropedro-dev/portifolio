@@ -12,7 +12,7 @@ export const HeaderMenu = () => {
     const closeMenu =() => setShowMenu(false);
 
     return (
-        <header className="max-w-2xl mx-auto flex justify-between items-center bg-transparent">
+        <header className="fixed left-0 right-0 top-0 w-screen lg:max-w-4xl mx-auto flex justify-between items-center bg-[#162934]">
             <div className="ml-3">
               <Logo  />
             </div> 
