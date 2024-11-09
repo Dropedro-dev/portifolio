@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #162934;
   color:  #E6E8EA
